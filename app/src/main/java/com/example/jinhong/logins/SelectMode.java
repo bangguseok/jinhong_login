@@ -33,7 +33,7 @@ public class SelectMode extends AppCompatActivity {
         textView.setText("아이디:"+name);
 
 
-
+//
     }
 
     public void onButton5Clicked(View v)
